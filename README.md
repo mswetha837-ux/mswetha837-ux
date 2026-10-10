@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm M. Swetha 👋
+B.E. EEE Student @ St. Joseph's College Of Engineering, Chennai
 
-<!--
-**mswetha837-ux/mswetha837-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
+- Passionate about Electrical & Electronics Engineering
+- Learning AI Tools, Python & IoT
+- Interested in Power Systems and Automation
 
-Here are some ideas to get you started:
+🛠️ Skills:
+- C | Python | MATLAB | MS Office
+- Basics of Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with me:
+- LinkedIn: linkedin.com/in/m-swetha-5a2362435
+- Email: [un email inge podu]
+
+📚 Lab: AI Tools Workshop One-Page Profile Task
